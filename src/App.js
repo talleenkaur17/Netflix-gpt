@@ -1,5 +1,12 @@
-function App(){
-    return <div  className="text-3xl font-bold">Namaste Everyone!! Let's Build</div>
+import Body from "./components/Body";
 
+
+function App(){
+    return (
+        <div >
+        <Body/>
+        </div>
+
+    )
 }
 export default App;
