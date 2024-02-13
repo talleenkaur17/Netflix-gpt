@@ -3,9 +3,15 @@ import Header from './Header';
 import useNowPlayingMovies from '../Hooks/useNowPlayingMovies';
 import MainContainer from './MainContainer';
 import SecondaryContainer from './SecondaryContainer';
+import usePopularMovies from '../Hooks/usePopularMovies';
+import useNowTrending from '../Hooks/useNowTrending';
+import useUpcomingMovies from '../Hooks/useUpcomingMovies';
 
 const Browse = () => {
    useNowPlayingMovies();
+   usePopularMovies();
+   useNowTrending();
+   useUpcomingMovies();
   return (
     <div>
       <Header/>

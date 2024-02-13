@@ -29,7 +29,8 @@
 -Fetch Data for trailer video.
 -Update store with trailer video data.
 -Embedded the youtube video and make it autoplay and mute.
-Tailwind Classes to make Main Container look awesome.
+-Tailwind Classes to make Main Container look awesome.
+-Secondary Container
 
 ## Features
 
