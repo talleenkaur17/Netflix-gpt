@@ -71,6 +71,12 @@
 
 -usePopularMovies custom Hooks.
 
+-GPT Search Page
+
+-GPT Search Bar
+
+-(BONUS) Multilingual feature in our App
+
 ## Features
 
 ### Login/Signup
